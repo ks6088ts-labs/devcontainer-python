@@ -1,3 +1,5 @@
+[![test](https://github.com/ks6088ts-labs/devcontainer-python/actions/workflows/test.yml/badge.svg)](https://github.com/ks6088ts-labs/devcontainer-python/actions/workflows/test.yml)
+
 # devcontainer-python
 Devcontainer for Python
 
